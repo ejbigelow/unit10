@@ -1,0 +1,14 @@
+{
+    "name": "ejbigelow/unit10",
+    "description": "test distribution",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Eric Bigelow",
+            "email": "ericbigelow@student.kaplan.edu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
